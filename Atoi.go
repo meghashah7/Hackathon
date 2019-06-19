@@ -1,5 +1,6 @@
 import "strings"
 
+//This is a leetcode practice problem
 func myAtoi(str string) int {
    	INT_MAX := 2147483647
 	INT_MIN := -2147483648
