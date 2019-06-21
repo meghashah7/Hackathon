@@ -18,6 +18,7 @@ import "fmt"
 
 // you can write to stdout for debugging purposes, e.g.
 // fmt.Println("this is a debug message")
+
 func main() {
 	
 	var A, B, k int
