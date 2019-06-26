@@ -35,6 +35,8 @@ func myAtoi(str string) int {
 
 		}
 	}
+	
+	//Uncomment the below to debug
 	//fmt.Println(string(str2))
 	str3 := string(str2[:])
 	//fmt.Println(str3)
